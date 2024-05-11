@@ -1,0 +1,1 @@
+This is our Python implementation of some of the most known sorting algorithms. The experiment was conducted on a computer with Windows 10 Pro 64-bit OS, AMD Ryzen 7 6800H with Radeon Graphics 3.20 GHz processor, using Visual Studio Code IDE.
